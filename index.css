@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer components {
+  .nav-items ul li {
+    @apply mx-2 my-2.5 text-[20px] text-black;
+  }
+}
